@@ -1,3 +1,5 @@
+^renv$
+^renv\.lock$
 ^.*\.Rproj$
 ^\.Rproj\.user$
 ^CODE_OF_CONDUCT\.md$
@@ -7,3 +9,8 @@
 ^data-raw$
 ^dev$
 ^manifest\.json$
+^\.github$
+^\.Rprofile$
+^\.lintr$
+^public$
+^recording\.log$

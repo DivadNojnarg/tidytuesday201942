@@ -2,13 +2,13 @@
 % Please edit documentation in R/run_app.R
 \name{run_app}
 \alias{run_app}
-\title{Run the Shiny Application}
+\title{Run example app}
 \usage{
-run_app(...)
+run_app()
 }
-\arguments{
-\item{...}{list of golem options}
+\value{
+A shiny app object
 }
 \description{
-Run the Shiny Application
+Run example app
 }
